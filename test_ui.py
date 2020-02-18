@@ -1,3 +1,4 @@
+#生成测试数据小工具的主窗口
 import sys
 from PyQt5.QtWidgets import QApplication,QMainWindow, QFileDialog, QDialog, QLineEdit, QMessageBox
 from PyQt5 import QtCore, QtGui, QtWidgets
